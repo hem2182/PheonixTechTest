@@ -1,0 +1,7 @@
+C:\Code\PheonixTechTest\PheonixTechTest\bin\Debug\PheonixTechTest.exe.config
+C:\Code\PheonixTechTest\PheonixTechTest\bin\Debug\PheonixTechTest.exe
+C:\Code\PheonixTechTest\PheonixTechTest\bin\Debug\PheonixTechTest.pdb
+C:\Code\PheonixTechTest\PheonixTechTest\obj\Debug\PheonixTechTest.csprojAssemblyReference.cache
+C:\Code\PheonixTechTest\PheonixTechTest\obj\Debug\PheonixTechTest.csproj.CoreCompileInputs.cache
+C:\Code\PheonixTechTest\PheonixTechTest\obj\Debug\PheonixTechTest.exe
+C:\Code\PheonixTechTest\PheonixTechTest\obj\Debug\PheonixTechTest.pdb
